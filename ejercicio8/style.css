@@ -1,0 +1,13 @@
+.title::first-line{
+    font-size: 2em;
+    color: #222222;
+}
+
+.title::first-letter{
+    font-size: 3em;
+    color: #111111;
+}
+
+.title{
+    color: #333333;
+}
