@@ -1,0 +1,24 @@
+#titulo {
+    font-size: 40px;
+    color: darkgray;
+}
+
+p.naranja {
+    color: orange;
+    background-color: blue;
+}
+
+p.consola {
+    color: green;
+    font-family: Courier;
+    background-color: black;
+}
+
+a.importante {
+    text-decoration-line: none;
+    
+}
+
+a.importante:hover{
+    background-color: yellow;
+}
